@@ -1,0 +1,43 @@
+id: APV65Lgm1hGY7yiX
+createdBy: 37tce58iVjRSb
+dateCreated: 1722500009060
+name: My New Class
+meta:
+  logo: ''
+  description: ''
+  selfAssign: false
+  defaultNumberOfRooms: 0
+members:
+  teacher: []
+  student: []
+modules:
+  - url: https://edrys-labs.github.io/module-liascript/
+    config:
+      course: >-
+        https://raw.githubusercontent.com/SebastianZug/Edrys_SchuelerUni/main/Lobby.md
+    studentConfig: ''
+    teacherConfig: ''
+    stationConfig: ''
+    showInCustom: lobby
+    width: full
+    height: tall
+  - url: https://edrys-labs.github.io/module-station-stream/index.html
+    config:
+      video: true
+      audio: false
+    studentConfig: ''
+    teacherConfig: ''
+    stationConfig: ''
+    showInCustom: station
+    width: full
+    height: tall
+  - url: https://edrys-labs.github.io/module-liascript/
+    config:
+      course: >-
+        https://raw.githubusercontent.com/SebastianZug/Edrys_SchuelerUni/main/Station.md
+    studentConfig: ''
+    teacherConfig: ''
+    stationConfig: ''
+    showInCustom: station
+    width: full
+    height: tall
