@@ -1,11 +1,13 @@
 # Die Sonne nicht aus den Augen lassen 
 
-Ergebnisse der Projektaufgaben der Schüleruni 2024 des Instituts für Informatik der TU Bergakademie Freiberg 
+Ergebnisse der Projektaufgaben der Schüleruni 2024 des Instituts für Informatik der TU Bergakademie Freiberg
 
 August 2024
 
 --------
 
-Zwischen dem 12. und 16. August 2024 fand die Schüleruni 2024 des Instituts für Informatik der TU Bergakademie Freiberg statt. Neben Vorträgen und Workshops zu Fragen der Künstlichen Intelligenz, eingebetteter Systeme und Human-Maschine-Interfaces gab es in der Projektarbeit die Aufgabe mit einer nachgeführten Solarzelle möglichst viel Energie "zu erzeugen". Ausbauend auf einer Einführung in die 3D Modellierung und die Arbeit mit Micropython entstanden dabei sieben spannende Lösungen.
+Zwischen dem 29. Juli und 1. August 2024 fand die [Schüleruniversität](https://tu-freiberg.de/sites/default/files/2024-07/Informatiktage2024_Ablauf2.pdf) 2024 des [Informatik der TU Bergakademie Freiberg](https://tu-freiberg.de/fakult1/inf) statt.
 
-> Wenn sie Interesse haben den Modulen bei der Arbeit zuzuschauen, klicken Sie links auf den Button "Station". Dann öffnet sich eine Live-Cam und eine Darstellung der aktuellen Leistung der einzelnen "Sonnenstrahljäger".
+Neben Vorträgen und Workshops zu Fragen der Künstlichen Intelligenz, eingebetteter Systeme und Human-Maschine-Interfaces gab es in der Projektarbeit die Aufgabe mit einer nachgeführten Solarzelle möglichst viel Energie "zu erzeugen". Ausbauend auf einer Einführung in die 3D Modellierung und die Arbeit mit Micropython realisierten neun Teams spannende Lösungen.
+
+> Wenn sie Interesse haben den Modulen _bei der Arbeit zuzuschauen_, klicken Sie links oben auf den Button auf die drei Striche neben dem Schriftzug edrys-lite und dann auf `Station`. Es öffnet sich eine Live-Cam und eine Darstellung der aktuellen Leistung der einzelnen "Sonnenstrahljäger".
