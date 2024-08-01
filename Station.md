@@ -1,4 +1,10 @@
 <!--
+
+author:   Sebastian Zug, André Dietrich
+email:    sebastian.zug@informatik.tu-freiberg.de
+
+icon: https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_TU_Bergakademie_Freiberg.svg
+
 @style
 .flex-container {
     display: flex;
@@ -46,7 +52,7 @@
 @end
 -->
 
-# Monitoring der Ausbeute 
+# Monitoring der Solar-Ausbeute 
 
 <div class="flex-container">
 
