@@ -10,6 +10,4 @@ Zwischen dem 12. und 16. August 2024 fand die Schüleruni 2024 des Instituts fü
 
 > Wenn sie Interesse haben den Modulen bei der Arbeit zuzuschauen, klicken Sie links auf den Button "Station". Dann öffnet sich eine Live-Cam und eine Darstellung der aktuellen Leistung der einzelnen "Sonnenstrahljäger".
 
---------
-
-!?[](Video.mp4)<!--autoplay="true"-->
+![](Setup.png)
